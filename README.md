@@ -98,3 +98,60 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 * Your Name – [your.email@example.com](mailto:your.email@example.com)
 * GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+
+
+Notes:
+csc 365 is all about the web development.
+Html is the structure.
+CSS is the styling/Design 
+JS is the behavioural part.
+
+Web development is the process of creating & maintaining websites that runs on the internet.
+
+Software development life cycle 
+1. prototyping
+2. Spiral 
+3. Waterfall
+
+Design thinking
+Empathize 
+Define
+ideate // make a idea
+prototype
+test
+implement
+
+// json represents javascript object notation.
+
+HTML Hierarchy
+
+The structure for the html is called Document Object Model
+
+• Document: hierarchical collection of elements, starting
+with <html>
+• Element: start tag, contents,end tag
+• Elements may be nested
+
+HTML
+Elements:
+doctype
+html
+head
+body
+
+HTML TAGS
+1. h1 to  h6 : headers
+2. P : paragraph text
+3. strong and em
+4. anchor text link
+5. img; for the image attribute
+HTML Tags we should know 
+1. br : break line
+2. ul,ol,li : lists
+3. !--...-- : to comment
+
+
+
+
+
