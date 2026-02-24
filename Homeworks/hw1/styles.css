@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+.burger-image {
+    width: 550px;
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Table layout – light & narrow */
+table {
+    border-collapse: separate;
+    border-spacing: 4px;
+    border: 2px solid black;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+/* Header cells */
+th {
+    border: 1.5px solid black;
+    padding: 4px 8px;
+    white-space: nowrap;
+    font-weight: normal;
+}
+
+/* Data cells */
+td {
+    border: 1.5px solid black;
+    padding: 4px 8px;
+    white-space: nowrap;
+    font-weight: normal;
+}
+
+/* Red cells – light, not bold */
+.red {
+    color: firebrick;
+    border: 1.5px solid firebrick;
+    font-weight: normal;
+}
+
+/* Important ingredient names */
+.important {
+    color: firebrick;
+    font-weight: 700;
+}
+
